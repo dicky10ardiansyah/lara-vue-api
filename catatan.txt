@@ -1,0 +1,5 @@
+php artisan migrate
+
+php artisan make:model Skill -m
+
+cukup gunakan route: http://localhost:8000/api/v1/skills
